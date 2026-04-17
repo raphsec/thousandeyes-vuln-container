@@ -19,3 +19,16 @@ educational purposes to showcase common container and API vulnerabilities.
 ---
 
 ## Project Structure
+
+
+
+## Evidence of Successful API Calls
+
+### Home Page
+![Home Page](screenshots/HOME%20PAGE.png)
+
+### Tests Endpoint — All ThousandEyes Tests
+![Tests Endpoint](screenshots/Tests-endpoint.png)
+
+### Health Endpoint — Exposed API Token (Vulnerability Evidence)
+![Health Endpoint](screenshots/Health-endpoint.png)
